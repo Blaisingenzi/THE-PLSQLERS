@@ -1,9 +1,9 @@
 # 💼 Employee Window Functions Assignment
 
 ### 👤 Who are we? 
-👨‍💻 Names:
-# - UWIZEYE Kevin(27477),
-# - NGENZI Blaise(27488)
+👨‍💻 Collaborators:
+### UWIZEYE Kevin(27477),
+### NGENZI Blaise(27488)
 
 📚 Concentration: IT IN SOFTWARE ENGINEERING
 📝 Course: Database Development with PL/SQL INSY 8311
