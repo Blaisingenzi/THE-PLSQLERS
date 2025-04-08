@@ -2,12 +2,12 @@
 
 ### 👤 Who are we? 
 👨‍💻 Names:
- - UWIZEYE Kevin(27477),
- - NGENZI Blaise(27488)
+# - UWIZEYE Kevin(27477),
+# - NGENZI Blaise(27488)
 
-- 📚 Concentration: IT IN SOFTWARE ENGINEERING
-- 📝 Course: Database Development with PL/SQL INSY 8311
-- 📅 Date: 8th April 2024  
+📚 Concentration: IT IN SOFTWARE ENGINEERING
+📝 Course: Database Development with PL/SQL INSY 8311
+📅 Date: 8th April 2024  
 
 
 
