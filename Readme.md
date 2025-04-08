@@ -59,16 +59,28 @@ Then, we inserted sample data into the table:
 INSERT INTO employees VALUES 
 
 ```sql
-(1, 'Niyonzima', 'Finance', 800000, TO_DATE('2020-01-15', 'YYYY-MM-DD')),
-(2, 'Uwase', 'Finance', 750000, TO_DATE('2021-06-12', 'YYYY-MM-DD')),
-(3, 'Habimana', 'Finance', 900000, TO_DATE('2019-03-08', 'YYYY-MM-DD')),
-(4, 'Mugisha', 'IT', 950000, TO_DATE('2018-07-22', 'YYYY-MM-DD')),
-(5, 'Ingabire', 'IT', 850000, TO_DATE('2021-01-30', 'YYYY-MM-DD')),
-(6, 'Tuyishime', 'IT', 800000, TO_DATE('2020-10-10', 'YYYY-MM-DD')),
-(7, 'Uwimana', 'HR', 700000, TO_DATE('2020-04-14', 'YYYY-MM-DD')),
-(8, 'Ishimwe', 'HR', 720000, TO_DATE('2021-08-01', 'YYYY-MM-DD'));
+
+INSERT ALL
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (1, 'Niyonzima', 'Finance', 800000, TO_DATE('2020-01-15', 'YYYY-MM-DD'))
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (2, 'Uwase', 'Finance', 750000, TO_DATE('2021-06-12', 'YYYY-MM-DD'))
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (3, 'Habimana', 'Finance', 900000, TO_DATE('2019-03-08', 'YYYY-MM-DD'))
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (4, 'Mugisha', 'IT', 950000, TO_DATE('2018-07-22', 'YYYY-MM-DD'))
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (5, 'Ingabire', 'IT', 850000, TO_DATE('2021-01-30', 'YYYY-MM-DD'))
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (6, 'Tuyishime', 'IT', 800000, TO_DATE('2020-10-10', 'YYYY-MM-DD'))
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (7, 'Uwimana', 'HR', 700000, TO_DATE('2020-04-14', 'YYYY-MM-DD'))
+    INTO employees (employee_id, name, department, salary, hire_date) 
+    VALUES (8, 'Ishimwe', 'HR', 720000, TO_DATE('2021-08-01', 'YYYY-MM-DD'))
+SELECT * FROM dual;
 
 ```
+
 ![alt text](<Insertion of sample datas.png>)
 
 ---
