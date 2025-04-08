@@ -1,7 +1,7 @@
 # 💼 Employee Window Functions Assignment
 
 ### 👤 Who are we? 
-- 👨‍💻 Names: UWIZEYE Kevin(27477)
+- 👨‍💻 Names: UWIZEYE Kevin(27477),
              NGENZI Blaise(27488)
 
 - 📚 Concentration: IT IN SOFTWARE ENGINEERING
