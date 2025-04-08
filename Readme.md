@@ -30,7 +30,7 @@ Window functions are powerful tools used in business analysis, HR systems, and p
 | Column Name   | Data Type | Description               |
 |---------------|-----------|---------------------------|
 | employee_id   | INT       | Unique ID for each employee |
-| name          | VARCHAR   | Employee name (Kinyarwanda) |
+| name          | VARCHAR   | Employee name               |
 | department    | VARCHAR   | Department name             |
 | salary        | INT       | Monthly salary              |
 | hire_date     | DATE      | Date when employee was hired |
