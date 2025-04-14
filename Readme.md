@@ -127,7 +127,6 @@ FROM employees;
 ![alt text](<Rank Within Departments Using RANK and DENSE_RANK.png>)
 
 
-
 **Explanation:** This ranks employees by salary **within their department**.
 
 ---
