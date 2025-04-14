@@ -11,7 +11,6 @@
   - 📅 Date: 8th April 2024  
 
 
-
 ## 📘 Introduction
 
 This project explores how to use SQL **window functions** to analyze employee data. It focuses on comparing salaries, ranking employees within departments, and tracking hiring order..
